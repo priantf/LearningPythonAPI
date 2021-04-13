@@ -1,1 +1,1 @@
-Python code with examples of ArcGIS API for Python
+Examples of ArcGIS API for Python
